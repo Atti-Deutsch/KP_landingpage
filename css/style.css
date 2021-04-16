@@ -68,6 +68,9 @@ section {
   padding: 200px;
   text-align: center;
   color: #824936;
+  min-height: 660px;
+  display: flex;
+  align-items: center;
 }
 
 .intro__text {
